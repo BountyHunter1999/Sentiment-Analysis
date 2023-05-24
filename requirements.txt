@@ -1,0 +1,9 @@
+contractions
+nltk
+autocorrect
+# working with data
+pandas
+numpy
+# working with visualization
+matplotlib
+seaborn
