@@ -7,3 +7,5 @@ numpy
 # working with visualization
 matplotlib
 seaborn
+# ml models
+scikit-learn
